@@ -1,0 +1,2 @@
+C:\Projects\TEST_TASKS\Puzzle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Projects\TEST_TASKS\Puzzle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
